@@ -1,55 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Trirong:ital,wght@1,100&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-image: url("images/galaxy.jpg");
+    display: flex;
+    flex-direction: column;
+    background-image: url("images/landing.jpg");
     background-size: cover;
+}
+
+/* header */
+
+#top-logo {
+    height: 10vw;
+    width: 10vw;
 }
 
 header {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
+    padding: 1rem;
     align-items: center;
 }
 
-header a {
-    font-family: 'Alumni Sans Pinstripe', sans-serif;
+nav a {
+    font-family: 'Trirong', sans-serif;
     text-decoration: none;
+    font-size: 1rem;
     color: aliceblue;
-    margin: 0 0.5rem;
-    
+    margin: 1rem;
+    justify-items: space-between;
 }
 
-.top-logo {
-    height: 15vw;
-    width: 15vw;
-   
+#heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
 }
-
 
 h1 {
     color: aliceblue;
-    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-family: 'Aboreto', sans-serif;
     text-align: center;
-    font-size: 4rem;
+    font-size: 3rem;
 }
-
-
-nav {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    font-size: 1.75rem;
-    color: aliceblue;
-   
-    
-}
-ul  {
-    /* display: flex;
-    font-family: 'Alumni Sans Pinstripe', sans-serif;
-    display: flex;
-    color: aliceblue */
-    
-}
-
-#nav-bar {
+#description {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align:justify;
+    padding: 1rem;
 }
+
+h2 {
+    color: aliceblue;
+    font-family: 'Trirong', sans-serif;
+    font-size: 1.5rem;
+}
+/* main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1; */
+
+
+/* main article img {
+    border-radius: 50%;
+    width: 100%;
+    
+} */
+
+/* main img {
+    width:100%; 
+    height:100%;
+    border-radius: 50%;
+} */
