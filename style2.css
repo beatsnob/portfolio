@@ -41,3 +41,11 @@ nav a {
     justify-items: space-between;
 }
 
+article {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
