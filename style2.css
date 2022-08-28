@@ -34,18 +34,71 @@ header {
 
 nav a {
     font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
     text-decoration: none;
     font-size: 1rem;
     color:aliceblue;
     margin: 1rem;
     justify-items: space-between;
 }
+/* Heading */
 
+#title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+h1 {
+    color: aliceblue;
+    font-family: 'Aboreto', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+/* Picture & Description */
+
+#self-pic {
+    width: 50vh;
+}
 article {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
+    align-items: center;
+}
+article p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+    color: aliceblue;
 }
 
+/* Resume Link */
+
+#resume {
+    color: aliceblue;
+    font-family: 'Aboreto', sans-serif;
+    text-decoration: none;
+    padding-bottom: 60px;
+}
+
+/* Footer */
+
+footer{
+    color: aliceblue;
+    font-family: 'Aboreto', sans-serif;
+    font-size: 0.75rem;
+    text-align: center;
+    position: relative;
+    top: 2rem;
+}
+
+@media screen and (min-width: 481px) {
+    footer {
+        position: relative;
+        top: 4rem;
+    }
+}
 
