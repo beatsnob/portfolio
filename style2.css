@@ -20,8 +20,8 @@ body {
 /* Header */
 
 #top-logo {
-    height: 10vw;
-    width: 10vw;
+    height: 20vw;
+    width: 25vw;
 }
 header {
     display: flex;
@@ -47,7 +47,6 @@ nav a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1rem;
 }
 h1 {
     color: aliceblue;
@@ -60,6 +59,8 @@ h1 {
 
 #self-pic {
     width: 50vh;
+    overflow: hidden ;
+   
 }
 article {
     display: flex;
@@ -69,10 +70,11 @@ article {
 article p {
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 100;
     color: aliceblue;
+    text-align: center;
 }
 
 /* Resume Link */
@@ -81,7 +83,8 @@ article p {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     text-decoration: none;
-    padding-bottom: 60px;
+    position: relative;
+    top: 25px
 }
 
 /* Footer */
@@ -92,13 +95,13 @@ footer{
     font-size: 0.75rem;
     text-align: center;
     position: relative;
-    top: 2rem;
+    top: .5rem
 }
 
 @media screen and (min-width: 481px) {
     footer {
         position: relative;
-        top: 4rem;
+        top: 15rem;
     }
 }
 
