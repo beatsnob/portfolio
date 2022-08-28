@@ -1,10 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Trirong:ital,wght@1,100&display=swap');
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Trirong:ital,wght@1,100&family=Work+Sans:ital,wght@1,100&display=swap');
+
+/* Background image & sizing */
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-
 body {
     display: flex;
     flex-direction: column;
@@ -14,7 +18,7 @@ body {
     background-attachment: fixed;
 }
 
-/* header */
+/* Header */
 
 #top-logo {
     height: 10vw;
@@ -26,16 +30,20 @@ header {
     padding: 1rem;
     align-items: center;
 }
+
 /* Navigation */
+
 nav a {
-    font-family: 'Trirong', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     text-decoration: none;
     font-size: 1rem;
     color: aliceblue;
     margin: 1rem;
     justify-items: space-between;
 }
+
 /* Main content */
+
 #heading {
     display: flex;
     flex-direction: column;
@@ -57,7 +65,7 @@ h1 {
 }
 h2 {
     color: aliceblue;
-    font-family: 'Trirong', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1.5rem;
 }
 
@@ -69,19 +77,37 @@ h2 {
     padding: 50px;
 }
 
-/* contact information */
+.socials a:hover {
+    transform: scale(1.25);
+}
+
+
+/* Contact Information */
 
 p {
     display: flex;
     flex-direction: column;
     align-items: center;
     color: aliceblue;
+    padding: 1rem;
+}
+#contact {
+    align-items: center;
+    font-family: 'Work Sans';
 }
 
+/* Footer */
 
+footer {
+    padding-top: 50px;
+}
 footer p {
-    text-align:right;
     padding: 1rem;
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
+    font-size: 0.75rem;
+}
+
+@media screen {
+    
 }
