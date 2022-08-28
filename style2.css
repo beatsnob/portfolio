@@ -1,0 +1,43 @@
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Trirong:ital,wght@1,100&family=Work+Sans:ital,wght@1,100;1,500&display=swap');
+
+/* Background image & sizing */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url(images/about.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+/* Header */
+
+#top-logo {
+    height: 10vw;
+    width: 10vw;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+/* Navigation */
+
+nav a {
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    font-size: 1rem;
+    color:aliceblue;
+    margin: 1rem;
+    justify-items: space-between;
+}
+
