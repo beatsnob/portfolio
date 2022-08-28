@@ -94,20 +94,35 @@ p {
 #contact {
     align-items: center;
     font-family: 'Work Sans';
+    position: relative;
+    top: 50px;
 }
 
 /* Footer */
 
-footer {
-    padding-top: 50px;
-}
 footer p {
     padding: 1rem;
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     font-size: 0.75rem;
+    position: relative;
+    top: 200px;
+    
 }
 
-@media screen {
-    
+@media screen and (min-width: 481px) {
+    .socials {
+        flex-direction: row;
+        justify-content: center;
+        position:relative;
+        top: 5rem;
+    }
+    #contact {
+        position: relative;
+        top: 20rem
+    }
+    footer {
+        position: relative;
+        top: 20rem;
+    }
 }
