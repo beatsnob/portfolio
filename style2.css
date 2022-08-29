@@ -84,7 +84,7 @@ article p {
     font-family: 'Aboreto', sans-serif;
     text-decoration: none;
     position: relative;
-    top: 25px
+    top: 2px
 }
 
 /* Footer */
@@ -101,7 +101,7 @@ footer{
 @media screen and (min-width: 481px) {
     footer {
         position: relative;
-        top: 15rem;
+        top: 5rem;
     }
 }
 
