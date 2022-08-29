@@ -36,7 +36,7 @@ header {
 nav a {
     font-family: 'Work Sans', sans-serif;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 2rem;
     color: aliceblue;
     margin: 1rem;
     justify-items: space-between;
@@ -54,7 +54,7 @@ h1 {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 #description {
     display: flex;
@@ -95,6 +95,7 @@ p {
 #contact {
     align-items: center;
     font-family: 'Work Sans';
+    font-size: 1.5rem;
     position: relative;
     top: 50px;
 }
