@@ -12,6 +12,7 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: teal;
     background-image: url(images/landing.jpg);
     background-size: cover;
     background-position: center center;
@@ -103,7 +104,6 @@ p {
 /* Footer */
 
 footer p {
-    padding: 1rem;
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     font-size: 0.75rem;
