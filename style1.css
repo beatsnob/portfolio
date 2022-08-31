@@ -83,7 +83,6 @@ h2 {
     transform: scale(1.25);
 }
 
-
 /* Contact Information */
 
 p {
@@ -111,6 +110,8 @@ footer p {
     top: 200px;
     
 }
+
+/* Media Queries */
 
 @media screen and (min-width: 481px) {
     .socials {

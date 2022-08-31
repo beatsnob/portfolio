@@ -55,8 +55,10 @@ h1 {
     text-align: center;
     font-size: 3rem;
     padding: 1rem;
-    
 }
+
+/* Main content */
+
 h2 {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
@@ -84,6 +86,9 @@ h3 {
     flex-wrap: wrap;
     align-items: center;
 }
+
+/* Footer */
+
 footer {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
