@@ -85,6 +85,7 @@ article p {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     text-decoration: none;
+    padding-bottom: 1rem;
 }
 
 
@@ -95,8 +96,7 @@ footer {
     font-family: 'Aboreto', sans-serif;
     font-size: 0.75rem;
     text-align: right;
-    padding-right: 20px;
-    padding-top: 1rem;
+    padding-bottom: 20px;
 }
 
 /* Media Queries */
