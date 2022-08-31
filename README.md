@@ -24,43 +24,43 @@ The html pages include:
 
 ![sitemap](images/SiteMap.jpg)
 
-This sitemap was created using the Figma desktop application.
 
 ## Screenshots & wireframes
 
 ### Index page wireframes
-![index page viewports](images/merged-index-wireframes.jpg)
+![wireframes for index page mobile, tablet and desktop viewports](images/merged-index-wireframes.jpg)
 
 ### Index page screenshots
-![index page screenshots](images/merged-index-screenshots.jpeg)
+![index page screenshots for mobile, tablet and desktop viewports](images/merged-index-screenshots.jpeg)
 
 ### About page wireframes
-![about page viewports](images/merged-about-wireframes.jpg)
+![wireframes for about page mobile, tablet and desktop viewports](images/merged-about-wireframes.jpg)
 
 ### About page screenshots
-![about page screenshots](images/merged-about-screenshots.jpeg)
+![about page screenshots for mobile, tablet and desktop viewports](images/merged-about-screenshots.jpeg)
 
 ### Blog page wireframes
-![blog page viewports](images/merged-blog-wireframes.jpg)
+![wireframes for blog page mobile, tablet and desktop viewports](images/merged-blog-wireframes.jpg)
 
 ### Blog page screenshots
-![blog page screenshots](images/merged-blog-screenshots.jpeg)
+![blog page screenshots for mobile, tablet and desktop viewports](images/merged-blog-screenshots.jpeg)
 
 ### Blog post wireframes
-![blog post viewports](images/merged-blogpost-wireframes.jpg)
+![wireframes for blogpost page mobile, tablet and desktop viewports](images/merged-blogpost-wireframes.jpg)
 
 ### Blog post screenshots
-![blog post viewports](images/merged-blogpost-screenshots.jpeg)
+![blogpost page screenshots for mobile, tablet and desktop viewports](images/merged-blogpost-screenshots.jpeg)
 
 ### Projects page wireframes
-![projects page viewports](images/merged-projects-wireframes.jpg)
+![wireframes for projects page mobile, tablet and desktop viewports](images/merged-projects-wireframes.jpg)
 
 ### Projects page screenshots
-![projects page viewports](images/merged-projects-screenshots.jpeg)
+![projects page screenshots for mobile, tablet and desktop viewports](images/merged-projects-screenshots.jpeg)
 
 ## Tech stack
 
 - Sitemap and wireframes: Desktop application version of Figma.
+- Website deployment: Netlify
 - Website structure: HTML5.
 - Stylesheets: CSS3.
 - Screenshots taken using Movavi ScreenShot browser extension for Mozilla Firefox.
