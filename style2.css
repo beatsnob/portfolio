@@ -12,7 +12,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: steelblue;
+    background-color: rgb(79, 117, 148);
     background-image: url(images/about.jpg);
     background-size: cover;
     background-position: center center;
