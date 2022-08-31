@@ -22,7 +22,7 @@ The html pages include:
 
 ## Sitemap
 
-![sitemap](images/SiteMap.jpg)
+![sitemap](docs/SiteMap.jpg)
 
 
 ## Screenshots & wireframes
@@ -34,28 +34,28 @@ The html pages include:
 ![index page screenshots for mobile, tablet and desktop viewports](images/merged-index-screenshots.jpeg)
 
 ### About page wireframes
-![wireframes for about page mobile, tablet and desktop viewports](images/merged-about-wireframes.jpg)
+![wireframes for about page mobile, tablet and desktop viewports](docs/merged-about-wireframes.jpg)
 
 ### About page screenshots
-![about page screenshots for mobile, tablet and desktop viewports](images/merged-about-screenshots.jpeg)
+![about page screenshots for mobile, tablet and desktop viewports](docs/merged-about-screenshots.jpeg)
 
 ### Blog page wireframes
-![wireframes for blog page mobile, tablet and desktop viewports](images/merged-blog-wireframes.jpg)
+![wireframes for blog page mobile, tablet and desktop viewports](docs/merged-blog-wireframes.jpg)
 
 ### Blog page screenshots
-![blog page screenshots for mobile, tablet and desktop viewports](images/merged-blog-screenshots.jpeg)
+![blog page screenshots for mobile, tablet and desktop viewports](docs/merged-blog-screenshots.jpeg)
 
 ### Blog post wireframes
-![wireframes for blogpost page mobile, tablet and desktop viewports](images/merged-blogpost-wireframes.jpg)
+![wireframes for blogpost page mobile, tablet and desktop viewports](docs/merged-blogpost-wireframes.jpg)
 
 ### Blog post screenshots
-![blogpost page screenshots for mobile, tablet and desktop viewports](images/merged-blogpost-screenshots.jpeg)
+![blogpost page screenshots for mobile, tablet and desktop viewports](docs/merged-blogpost-screenshots.jpeg)
 
 ### Projects page wireframes
-![wireframes for projects page mobile, tablet and desktop viewports](images/merged-projects-wireframes.jpg)
+![wireframes for projects page mobile, tablet and desktop viewports](docs/merged-projects-wireframes.jpg)
 
 ### Projects page screenshots
-![projects page screenshots for mobile, tablet and desktop viewports](images/merged-projects-screenshots.jpeg)
+![projects page screenshots for mobile, tablet and desktop viewports](docs/merged-projects-screenshots.jpeg)
 
 ## Tech stack
 
