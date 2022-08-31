@@ -76,7 +76,7 @@ article p {
     font-weight: 100;
     font-size: 1.5rem;
     color: aliceblue;
-    text-align: justify;
+    text-align: center;
 }
 
 /* CV Link */
@@ -85,9 +85,8 @@ article p {
     color: aliceblue;
     font-family: 'Aboreto', sans-serif;
     text-decoration: none;
-    /* position: relative; */
-    /* bottom: 2rem; */
 }
+
 
 /* Footer */
 
@@ -110,6 +109,9 @@ footer {
     #resume {
         position: relative;
         top: .5rem;
+    }
+    article p {
+        text-align: justify;
     }
 }
 
