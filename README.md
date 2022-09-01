@@ -4,7 +4,6 @@
 
 [Link to Github Repository](https://github.com/beatsnob/portfolio)
 
-
 ## Purpose and target audience
 
 While this website was created as a response to an assignment (T1A2-Portfolio), its purpose goes beyond the assignment requirements. This website is intended to present my budding skills as an up and coming web developer. This website also exists to showcase my abilities to potential employers who possess sound technical knowledge and a high understanding of IT, software development, coding and programming languages and development stacks. This website has been designed with a straightforward and minimalistic design that is intentional and in line with my aesthetic style in order to exhibit a high level of professionalism accompanied with a positive work ethic.
@@ -24,37 +23,46 @@ The html pages include:
 
 ![sitemap](docs/SiteMap.jpg)
 
-
 ## Screenshots & wireframes
 
 ### Index page wireframes
+
 ![wireframes for index page mobile, tablet and desktop viewports](images/merged-index-wireframes.jpg)
 
 ### Index page screenshots
+
 ![index page screenshots for mobile, tablet and desktop viewports](images/merged-index-screenshots.jpeg)
 
 ### About page wireframes
+
 ![wireframes for about page mobile, tablet and desktop viewports](docs/merged-about-wireframes.jpg)
 
 ### About page screenshots
+
 ![about page screenshots for mobile, tablet and desktop viewports](docs/merged-about-screenshots.jpeg)
 
 ### Blog page wireframes
+
 ![wireframes for blog page mobile, tablet and desktop viewports](docs/merged-blog-wireframes.jpg)
 
 ### Blog page screenshots
+
 ![blog page screenshots for mobile, tablet and desktop viewports](docs/merged-blog-screenshots.jpeg)
 
 ### Blog post wireframes
+
 ![wireframes for blogpost page mobile, tablet and desktop viewports](docs/merged-blogpost-wireframes.jpg)
 
 ### Blog post screenshots
+
 ![blogpost page screenshots for mobile, tablet and desktop viewports](docs/merged-blogpost-screenshots.jpeg)
 
 ### Projects page wireframes
+
 ![wireframes for projects page mobile, tablet and desktop viewports](docs/merged-projects-wireframes.jpg)
 
 ### Projects page screenshots
+
 ![projects page screenshots for mobile, tablet and desktop viewports](docs/merged-projects-screenshots.jpeg)
 
 ## Tech stack
