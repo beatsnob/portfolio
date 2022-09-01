@@ -27,11 +27,11 @@ The html pages include:
 
 ### Index page wireframes
 
-![wireframes for index page mobile, tablet and desktop viewports](images/merged-index-wireframes.jpg)
+![wireframes for index page mobile, tablet and desktop viewports](docs/merged-index-wireframes.jpg)
 
 ### Index page screenshots
 
-![index page screenshots for mobile, tablet and desktop viewports](images/merged-index-screenshots.jpeg)
+![index page screenshots for mobile, tablet and desktop viewports](docs/merged-index-screenshots.jpeg)
 
 ### About page wireframes
 
